@@ -1,0 +1,10 @@
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Framework\bin\Debug\__NAME__.Framework.dll
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Framework\bin\Debug\__NAME__.Framework.pdb
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Framework\obj\Debug\__NAME__.Framework.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Framework\obj\Debug\__NAME__.Framework.dll
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Framework\obj\Debug\__NAME__.Framework.pdb
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Framework\bin\Debug\__NAME__.Framework.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Framework\bin\Debug\__NAME__.Framework.pdb
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Framework\obj\Debug\__NAME__.Framework.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Framework\obj\Debug\__NAME__.Framework.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Framework\obj\Debug\__NAME__.Framework.pdb

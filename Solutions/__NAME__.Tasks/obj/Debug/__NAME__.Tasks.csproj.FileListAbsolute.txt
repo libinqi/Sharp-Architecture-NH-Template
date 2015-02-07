@@ -1,0 +1,17 @@
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Tasks\bin\Debug\__NAME__.Tasks.dll
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Tasks\bin\Debug\__NAME__.Tasks.pdb
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.dll
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.pdb
+D:\Visual Studio 2013\Projects\__NAME__\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\__NAME__.Tasks.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\__NAME__.Tasks.pdb
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\SharpArch.Domain.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\bin\Debug\SharpArch.Domain.pdb
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.dll
+D:\Visual Studio 2013\Projects\__NAME__\Solutions\__NAME__.Tasks\obj\Debug\__NAME__.Tasks.pdb
